@@ -6,4 +6,4 @@
 !pip install -q openai
 
 # To run
-py3 main.py 
+python3 main.py 
